@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCodes/JavaCodes.iml" filepath="$PROJECT_DIR$/JavaCodes/JavaCodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLearning.iml" filepath="$PROJECT_DIR$/JavaLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Lecture2_Challanges/Lecture2_Challanges.iml" filepath="$PROJECT_DIR$/Challenges/Lecture2_Challanges/Lecture2_Challanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Lecture3_Challenges/Lecture2_Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Lecture3_Challenges/Lecture2_Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCodes/Lecture3/Lecture3.iml" filepath="$PROJECT_DIR$/JavaCodes/Lecture3/Lecture3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Lecture3_Challenges/Lecture3_Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Lecture3_Challenges/Lecture3_Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCodes/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/JavaCodes/Lecture4/Lecture4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Lecture4_Challenges/Lecture4_Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Lecture4_Challenges/Lecture4_Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCodes/Lecture5/Lecture5.iml" filepath="$PROJECT_DIR$/JavaCodes/Lecture5/Lecture5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Lecture5_Challenges/Lecture5_Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Lecture5_Challenges/Lecture5_Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCodes/Lecture6/Lecture6.iml" filepath="$PROJECT_DIR$/JavaCodes/Lecture6/Lecture6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Lecture6_Challenges/Lecture6_Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Lecture6_Challenges/Lecture6_Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCodes/Lecture7/Lecture7.iml" filepath="$PROJECT_DIR$/JavaCodes/Lecture7/Lecture7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Lecture7_Challenges/Lecture7_Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Lecture7_Challenges/Lecture7_Challenges.iml" />
+    </modules>
+  </component>
+</project>
